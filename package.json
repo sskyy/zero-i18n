@@ -1,0 +1,11 @@
+{
+  "name": "zero-i18n",
+  "version": "0.0.1",
+  "description": "zero module",
+  "zero": {
+    "dependencies": {
+      "request": "^0.0.1"
+    }
+  },
+  "author": "jiamiu"
+}
